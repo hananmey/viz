@@ -1,0 +1,4 @@
+{"user-id": 1, "instituion": 100, "status": "busy", "time": 1665602188}
+{"user-id": 1, "instituion": 105, "status": "free", "time": 1665602200}
+{"user-id": 2, "instituion": 110, "status": "free", "time": 1636602188}
+{"user-id": 2, "instituion": 100, "status": "busy", "time": 1636613120}
